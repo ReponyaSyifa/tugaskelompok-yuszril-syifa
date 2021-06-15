@@ -1,0 +1,13 @@
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\bin\Debug\netcoreapp3.1\Duplikasi.exe
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\bin\Debug\netcoreapp3.1\Duplikasi.deps.json
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\bin\Debug\netcoreapp3.1\Duplikasi.runtimeconfig.json
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\bin\Debug\netcoreapp3.1\Duplikasi.runtimeconfig.dev.json
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\bin\Debug\netcoreapp3.1\Duplikasi.dll
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\bin\Debug\netcoreapp3.1\Duplikasi.pdb
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\obj\Debug\netcoreapp3.1\Duplikasi.csproj.AssemblyReference.cache
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\obj\Debug\netcoreapp3.1\Duplikasi.AssemblyInfoInputs.cache
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\obj\Debug\netcoreapp3.1\Duplikasi.AssemblyInfo.cs
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\obj\Debug\netcoreapp3.1\Duplikasi.csproj.CoreCompileInputs.cache
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\obj\Debug\netcoreapp3.1\Duplikasi.dll
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\obj\Debug\netcoreapp3.1\Duplikasi.pdb
+C:\Users\A409F\source\repos\Duplikasi\Duplikasi\obj\Debug\netcoreapp3.1\Duplikasi.genruntimeconfig.cache
