@@ -148,13 +148,13 @@ namespace Duplikasi
                             }
                             jml++;
                         }
-                        Console.Write("Pilih data partisipan berdasarkan no urut : ");
+                        Console.Write("Pilih data partisipan berdasarkan no urut atau ekan 0 untuk Batal Delete: ");
 
                         int pilih2= int.Parse(Console.ReadLine());
                         if((pilih2-1) > code[pilih1 - 1].Partisipans.Count || (pilih2-1)<0)
                         {
                             Console.WriteLine("========================================");
-                            Console.WriteLine("||     Index Coding Camp Tidak Ada    ||");
+                            Console.WriteLine("||     Index Participan Tidak Ada    ||");
                             Console.WriteLine("========================================\n\n");
                             if (Console.ReadLine() == "")
                             {
@@ -266,14 +266,15 @@ namespace Duplikasi
                             }
                             jml++;
                         }
-                        Console.Write("Pilih data partisipan berdasarkan no urut : ");
+                        Console.WriteLine("Pilih data partisipan berdasarkan no urut atau ekan 0 untuk Batal Update : ");
 
                         int pilih2= int.Parse(Console.ReadLine());
                         if((pilih2-1) > code[pilih1 - 1].Partisipans.Count || (pilih2-1)<0)
                         {
                             Console.WriteLine("========================================");
-                            Console.WriteLine("||     Index Coding Camp Tidak Ada    ||");
-                            Console.WriteLine("========================================\n\n");
+                            Console.WriteLine("||     Index Participan Tidak Ada    ||");
+                            Console.WriteLine("========================================\n");
+                            Console.Write("Tekan 0 untuk Kembali: \n");
                             if (Console.ReadLine() == "")
                             {
                                 goto Tengah;
